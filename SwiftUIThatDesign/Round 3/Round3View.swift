@@ -12,12 +12,11 @@ import SwiftUI
     Round 3 Instructions: This time it's all up to you to figure out how to recreate the user interface! Use the file 'Round3HiFi' as your reference for what the screen will look like.
  
     Here are a couple hints
-        - Image name is called “doggie”
+        - Image name is called "doggie"
         - There is no padding in this code
-        - SF Symbol at the bottom is called “leaf”
-        - SF Symbol between Charlie & Age: 7 is “circle.fill”
+        - SF Symbol at the bottom is called "leaf"
+        - SF Symbol between Charlie & Age: 7 is "circle.fill"
         - There is an alignment on the Stack https://www.hackingwithswift.com/quick-start/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing
-        - There are 14 lines of code
  
  */
 

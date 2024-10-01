@@ -29,9 +29,11 @@ import SwiftUI
  
         3.
         
-        ZStack {
-            Color.teal
-                .edgesIgnoringSafeArea(.bottom)
+          VStack {
+             Text("Welcome to")
+                  .foregroundStyle(.indigo)
+             
+             Text("The Apple Developer Academy")
          }
  
  */

@@ -19,11 +19,11 @@ import SwiftUI
  
    Scrambled Snippets:
  
-     Text(“Birthday: October 1st, 2022")
+     Text("Birthday: October 1st, 2022")
  
-     Text(“Eye Color: Green”)
+     Text("Eye Color: Green")
  
-     Text(“Sex: Male”)
+     Text("Sex: Male")
  
      HStack {
 
@@ -33,21 +33,21 @@ import SwiftUI
 
      }
      
-     Text(“Breed: Russian Blue”)
+     Text("Breed: Russian Blue")
      
-     Text(“Fur Color: Gray”)
+     Text("Fur Color: Gray")
      
-     Text(“Kiwi”)
+     Text("Kiwi")
      
      .padding()
      
-     Image(“cat”)
+     Image("cat")
      
      .font(.largeTitle)
      
-     Image(“systemName: "pawprint.fill”)
+     Image(systemName: "pawprint.fill")
      
-     .foregroundStyle(Color.gray)
+     .foregroundStyle(.gray)
  */
 
 struct Round2View: View {
